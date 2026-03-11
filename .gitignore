@@ -1,0 +1,19 @@
+# Data files (too large for GitHub)
+*.h5ad
+*.h5
+*.loom
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Reference notebooks
+Mechanotransduction/notebooks/Zhisong/
+
+# Environment
+.env
+.venv/
