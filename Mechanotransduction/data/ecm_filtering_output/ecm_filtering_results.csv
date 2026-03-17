@@ -1,0 +1,258 @@
+gene_symbol,pct_cells_expressing,mean expression,is_hvg_in_atlas,Category,Subcategory,Matrisome Division,passes_global_filter,max_pct_any_celltype,passes_celltype_filter,top_celltype,top_region,temporal_cv,passes_combined,hvg_passes_combined
+COL6A1,22.25211202238033,1.1474625,True,Collagens,Beaded Filament,Core Matrisome,True,68.03840877915144,True,MC,Ventral midbrain,0.32044244,True,True
+COL4A2,15.494827113004328,0.78863513,False,Collagens,Basement Membrane / Network,Core Matrisome,True,65.70644718793048,True,PSC,Unspecific,0.7105982,True,False
+COL4A5,13.215176061148862,0.6866173,False,Collagens,Basement Membrane / Network,Core Matrisome,True,61.636945587564476,True,PSC,Dorsal midbrain,0.9792509,True,False
+COL11A1,11.95185978814241,0.61527437,False,Collagens,Fibrillar,Core Matrisome,True,36.3081134079566,True,Astrocyte,Unspecific,0.73786426,True,False
+COL4A6,10.541755291195283,0.5392851,False,Collagens,Basement Membrane / Network,Core Matrisome,True,62.780064014633574,True,PSC,Dorsal midbrain,0.9946348,True,False
+COL6A2,10.472117014881116,0.535148,True,Collagens,Beaded Filament,Core Matrisome,True,66.9410150891651,True,MC,Unspecific,0.56476206,True,True
+COL18A1,9.751166003404764,0.48686802,False,Collagens,Multiplexin,Core Matrisome,True,84.63648834019479,True,PSC,Unspecific,1.1609453,True,False
+COL9A3,7.789659647856491,0.40518555,False,Collagens,FACIT,Core Matrisome,True,20.759030635573687,True,PSC,Dorsal telencephalon,0.74844545,True,False
+COL4A1,7.460332162708147,0.3690629,True,Collagens,Basement Membrane / Network,Core Matrisome,True,69.59304983996542,True,PSC,Unspecific,0.87091935,True,True
+COL2A1,7.315464215631231,0.37816826,True,Collagens,Fibrillar,Core Matrisome,True,81.61865569273236,True,PSC,Unspecific,1.7013068,True,True
+COL1A2,6.024755757717475,0.34797454,True,Collagens,Fibrillar,Core Matrisome,True,63.60659093235634,True,NC Derivatives,Unspecific,0.8196493,True,True
+COL9A1,4.928673009599844,0.2409326,False,Collagens,FACIT,Core Matrisome,True,17.784030799769766,True,CP,Unspecific,1.1747599,True,False
+COL5A2,4.356317541499464,0.22031464,True,Collagens,Fibrillar,Core Matrisome,True,45.256370893462666,True,NC Derivatives,Unspecific,0.53422916,True,True
+COL27A1,4.353550083641075,0.21135841,False,Collagens,Fibrillar,Core Matrisome,True,23.090992226794512,True,PSC,Unspecific,0.72564244,True,False
+COL26A1,4.048790846827412,0.19309305,False,Collagens,Other,Core Matrisome,True,22.542295381801377,True,PSC,Ventral midbrain,1.1927674,True,False
+COL9A2,3.8258692923975524,0.18988344,False,Collagens,FACIT,Core Matrisome,True,67.85550983082038,True,PSC,Thalamus,0.6469499,True,False
+COL5A1,3.3273880054966294,0.16701153,True,Collagens,Fibrillar,Core Matrisome,True,32.464563328761024,True,MC,Unspecific,0.75892556,True,True
+COL1A1,3.159194342184716,0.18655562,True,Collagens,Fibrillar,Core Matrisome,True,38.890594616724314,True,MC,Unspecific,0.7852788,True,True
+COL23A1,3.0883135337708634,0.15987745,True,Collagens,Transmembrane,Core Matrisome,True,47.18792866941104,True,PSC,Ventral midbrain,1.0982653,True,True
+COL7A1,2.604742632066161,0.12630163,False,Collagens,Anchoring Fibril,Core Matrisome,True,5.221926815903194,True,MC,Ventral midbrain,0.38336086,True,False
+COL25A1,2.422372807071477,0.12399084,False,Collagens,Transmembrane,Core Matrisome,True,6.441661762019785,True,MC,Dorsal midbrain,0.90101296,True,False
+COL16A1,2.3901234512114695,0.118949704,False,Collagens,FACIT,Core Matrisome,True,14.817445659896103,True,MC,Unspecific,0.6659949,True,False
+COL3A1,2.3010000124249688,0.14430663,True,Collagens,Fibrillar,Core Matrisome,True,32.72583362084209,True,MC,Unspecific,0.99483097,True,True
+COL21A1,1.3353831347735707,0.06932629,True,Collagens,FACIT,Core Matrisome,True,12.990887504314577,True,MC,Ventral midbrain,0.8866702,True,True
+COL12A1,1.295960979974351,0.0654316,True,Collagens,FACIT,Core Matrisome,True,23.242247466993366,True,NC Derivatives,Cerebellum,0.8134496,True,True
+COL14A1,1.1656645457024315,0.060556006,True,Collagens,FACIT,Core Matrisome,True,14.362835630062479,True,MC,Unspecific,1.4433571,True,True
+COL11A2,1.089474736498782,0.051847152,False,Collagens,Fibrillar,Core Matrisome,True,3.039607000307028,False,NC Derivatives,Ventral telencephalon,0.71297824,False,False
+COL6A3,1.039716973779423,0.05883768,True,Collagens,Beaded Filament,Core Matrisome,True,22.663527692649634,True,MC,Unspecific,1.0311804,True,True
+COL5A3,0.9499157902109999,0.0457159,True,Collagens,Fibrillar,Core Matrisome,False,23.77443455122215,True,NC Derivatives,Unspecific,0.8908992,False,False
+COL24A1,0.7943733628226747,0.039674688,False,Collagens,Fibrillar,Core Matrisome,False,4.659752805796243,False,MC,Cerebellum,0.8530304,False,False
+COL22A1,0.7743234130322513,0.03627943,False,Collagens,FACIT,Core Matrisome,False,4.422338426341842,False,Astrocyte,Unspecific,0.819545,False,False
+COL13A1,0.7147948297108848,0.03377165,False,Collagens,Transmembrane,Core Matrisome,False,25.422953818015365,True,PSC,Unspecific,1.689021,False,False
+COL28A1,0.6607446833745019,0.033642177,False,Collagens,Other,Core Matrisome,False,10.183195169379001,True,NC Derivatives,Dorsal midbrain,0.8016336,False,False
+COL8A1,0.5733156065419828,0.028260078,True,Collagens,Network,Core Matrisome,False,6.403101089846371,True,MC,Unspecific,2.025822,False,False
+COL15A1,0.5119232250710859,0.026155243,True,Collagens,Multiplexin,Core Matrisome,False,8.453587145635213,True,NC Derivatives,Unspecific,0.9002156,False,False
+COL19A1,0.5022088832008059,0.02576916,False,Collagens,FACIT,Core Matrisome,False,7.849759492375548,True,NC Derivatives,Dorsal midbrain,0.67115545,False,False
+COL8A2,0.40698574137934135,0.019446842,False,Collagens,Network,Core Matrisome,False,3.381162096888738,False,MC,Unspecific,0.88861245,False,False
+COL6A6,0.3742845556648526,0.018424142,False,Collagens,Beaded Filament,Core Matrisome,False,2.3136403304040587,False,MC,Dorsal midbrain,0.92211854,False,False
+COL4A4,0.35835755329613783,0.017259162,False,Collagens,Basement Membrane / Network,Core Matrisome,False,3.0635573845450335,False,PSC,Ventral midbrain,0.6670957,False,False
+COL20A1,0.3518624991386833,0.017143153,False,Collagens,FACIT,Core Matrisome,False,9.069069069069236,True,OPC,Ventral midbrain,0.7965002,False,False
+COL17A1,0.29662629943441726,0.013822188,False,Collagens,Transmembrane,Core Matrisome,False,1.7832647462277085,False,PSC,Ventral midbrain,1.8653967,False,False
+COL4A3,0.26731383762816574,0.013174537,False,Collagens,Basement Membrane / Network,Core Matrisome,False,1.0127250218172161,False,MC,Ventral midbrain,1.3254654,False,False
+COL10A1,0.25901146405298464,0.012781447,False,Collagens,Network,Core Matrisome,False,1.073193076595896,False,Neuroepithelium,Dorsal midbrain,2.2656975,False,False
+COL6A5,0.02112304569468268,0.0010551398,False,Collagens,Beaded Filament,Core Matrisome,False,0.4115226337448559,False,PSC,Cerebellum,0.7233763,False,False
+SPARC,29.346687917883695,1.6656147,True,ECM Glycoproteins,Core Glycoprotein,Core Matrisome,True,91.19844437622548,True,NC Derivatives,Unspecific,0.5710825,True,True
+FBLN1,24.91158254562613,1.342697,True,ECM Glycoproteins,Fibulins,Core Matrisome,True,95.01600365798222,True,PSC,Unspecific,0.88383555,True,True
+MFAP2,14.011300264675722,0.72919136,False,ECM Glycoproteins,Elastic Fibers / Microfibrils,Core Matrisome,True,84.31641518061544,True,PSC,Thalamus,1.1788561,True,False
+TNC,9.19293021825535,0.50875455,True,ECM Glycoproteins,Tenascins,Core Matrisome,True,71.27012010782423,True,Astrocyte,Unspecific,1.0835973,True,True
+EFEMP2,8.412224708530507,0.41707537,False,ECM Glycoproteins,Fibulins,Core Matrisome,True,47.839587603748335,True,MC,Unspecific,1.2097511,True,False
+FN1,6.664885703982495,0.33937484,True,ECM Glycoproteins,Core Glycoprotein,Core Matrisome,True,82.99039780521528,True,PSC,Unspecific,0.8570904,True,True
+FBN2,5.72637861759765,0.29387915,False,ECM Glycoproteins,Elastic Fibers / Microfibrils,Core Matrisome,True,74.34842249657288,True,PSC,Dorsal midbrain,1.4063562,True,False
+THBS3,5.174863801532896,0.25104627,False,ECM Glycoproteins,Thrombospondins,Core Matrisome,True,13.16188419548763,True,Neuroepithelium,Ventral midbrain,1.1464511,True,False
+FBN1,4.902918707897281,0.2404937,False,ECM Glycoproteins,Elastic Fibers / Microfibrils,Core Matrisome,True,22.610760457043945,True,MC,Unspecific,1.0988511,True,False
+EFEMP1,4.3051478104851615,0.20905213,True,ECM Glycoproteins,Fibulins,Core Matrisome,True,23.43677064517915,True,MC,Unspecific,1.3140743,True,True
+ELN,4.060256029383598,0.20549458,True,ECM Glycoproteins,Elastic Fibers,Core Matrisome,True,30.436556507547984,True,EC,Medulla,0.85046643,True,True
+FBLN5,2.7803350092443813,0.14066292,True,ECM Glycoproteins,Fibulins,Core Matrisome,True,16.30913482028768,True,MC,Medulla,2.232762,True,True
+NID1,2.748706919434216,0.13021727,False,ECM Glycoproteins,Nidogens,Core Matrisome,True,47.487462900422415,True,NC Derivatives,Unspecific,1.1218516,True,False
+THBS2,2.718038968064717,0.13324542,False,ECM Glycoproteins,Thrombospondins,Core Matrisome,True,17.997793937415807,True,Astrocyte,Unspecific,1.8300321,True,False
+THBS4,2.7058395619950817,0.13131568,False,ECM Glycoproteins,Thrombospondins,Core Matrisome,True,9.161404312404368,True,Neuroepithelium,Ventral midbrain,1.2002902,True,False
+FBLN2,2.659752916843127,0.13069849,True,ECM Glycoproteins,Fibulins,Core Matrisome,True,57.70461819844677,True,PSC,Unspecific,0.57028997,True,True
+SPP1,2.622476953852575,0.14599699,True,ECM Glycoproteins,Core Glycoprotein,Core Matrisome,True,52.08333333333336,True,Microglia,Unspecific,1.6183237,True,True
+TNR,1.924286871293181,0.09931891,False,ECM Glycoproteins,Tenascins,Core Matrisome,True,13.741741741741897,True,OPC,Ventral midbrain,1.0862875,True,False
+EMILIN1,1.705318828089592,0.08349154,True,ECM Glycoproteins,Elastic Fibers,Core Matrisome,True,23.024780305642427,True,MC,Unspecific,0.941604,True,True
+THBS1,1.6074411858734916,0.08066664,True,ECM Glycoproteins,Thrombospondins,Core Matrisome,True,5.956401596561342,True,NC Derivatives,Unspecific,1.6876887,True,True
+POSTN,1.3038680024269165,0.07577686,True,ECM Glycoproteins,Core Glycoprotein,Core Matrisome,True,19.730887098410406,True,MC,Unspecific,1.0419602,True,True
+TNXB,1.2329307152810427,0.059909664,False,ECM Glycoproteins,Tenascins,Core Matrisome,True,7.945527976782936,True,MC,Ventral midbrain,0.62403405,True,False
+NID2,1.2097744352413864,0.057786644,True,ECM Glycoproteins,Nidogens,Core Matrisome,True,15.934909425851963,True,NC Derivatives,Unspecific,1.1873262,True,True
+EMILIN2,0.774605806691271,0.036969002,False,ECM Glycoproteins,Elastic Fibers,Core Matrisome,False,19.79166666666666,True,Microglia,Dorsal midbrain,1.1281465,False,False
+VTN,0.7115755419980595,0.03410745,False,ECM Glycoproteins,Core Glycoprotein,Core Matrisome,False,5.029721079103797,True,PSC,Ventral midbrain,1.4400487,False,False
+COMP,0.37163005527006676,0.01843752,False,ECM Glycoproteins,Thrombospondins,Core Matrisome,False,1.0416666666666665,False,Microglia,Medulla,0.79791653,False,False
+MFAP5,0.12560869953202103,0.0064622187,True,ECM Glycoproteins,Elastic Fibers / Microfibrils,Core Matrisome,False,1.5241613053802183,False,MC,Unspecific,0.8143671,False,False
+RPSA,89.3594634054386,6.5172973,False,ECM Receptors,Laminin Receptors,Matrisome-Associated,True,99.8628257887552,True,PSC,Dorsal telencephalon,0.1436413,True,False
+DDR1,34.8502014596444,1.8593615,False,ECM Receptors,Discoidin Domain Receptors,Matrisome-Associated,True,77.02835198950959,True,Astrocyte,Unspecific,0.497474,True,False
+DAG1,16.879798574332767,0.8374755,False,ECM Receptors,Dystroglycan Complex,Matrisome-Associated,True,57.75034293552953,True,Astrocyte,Unspecific,0.83005935,True,False
+BCAM,6.9046379204899075,0.33373088,False,ECM Receptors,Laminin Receptors,Matrisome-Associated,True,55.46410608139133,True,PSC,Unspecific,0.9536857,True,False
+HMMR,6.719387680173226,0.3465074,True,ECM Receptors,Hyaluronan Receptors,N/A (Intracellular),True,55.144032921811984,True,PSC,Unspecific,1.3944501,True,True
+CD44,4.686435728893062,0.24258748,True,ECM Receptors,Hyaluronan Receptors,Matrisome-Associated,True,39.86028270283097,True,Astrocyte,Unspecific,2.144927,True,True
+DDR2,2.7629395598487902,0.1385188,False,ECM Receptors,Discoidin Domain Receptors,Matrisome-Associated,True,18.176283157104354,True,MC,Ventral midbrain,1.0344847,True,False
+LYVE1,0.1049939624235703,0.0050613307,False,ECM Receptors,Hyaluronan Receptors,N/A (Membrane),False,35.41666666666667,True,Microglia,Cerebellum,2.0901778,False,False
+TIMP2,27.903317447939557,1.478973,False,ECM Regulators,TIMPs,Matrisome-Associated,True,75.42078601189824,True,Astrocyte,Unspecific,0.46756354,True,False
+TIMP1,25.604576584846882,1.4138626,True,ECM Regulators,TIMPs,Matrisome-Associated,True,95.65614997714091,True,MC,Unspecific,0.63359785,True,True
+ADAM17,20.90356934306628,1.0605096,False,ECM Regulators,ADAMs (Sheddases),Matrisome-Associated,True,46.822130772748935,True,PSC,Ventral midbrain,0.46290043,True,False
+ADAM10,19.741011127586933,0.9993958,False,ECM Regulators,ADAMs (Sheddases),Matrisome-Associated,True,68.2213077274825,True,PSC,Ventral midbrain,0.51828617,True,False
+MMP16,12.280622485972716,0.6348195,False,ECM Regulators,Matrix Metalloproteinases (MT-MMPs),Matrisome-Associated,True,40.45645645645785,True,OPC,Dorsal midbrain,0.92937803,True,False
+MMP15,8.868233989114923,0.44202548,False,ECM Regulators,Matrix Metalloproteinases (MT-MMPs),Matrisome-Associated,True,50.525834476452815,True,PSC,Dorsal midbrain,0.4021021,True,False
+TIMP3,8.69800709145807,0.44711137,True,ECM Regulators,TIMPs,Matrisome-Associated,True,55.43956606284315,True,NC Derivatives,Unspecific,1.3415108,True,True
+LOXL1,7.918939464955541,0.39262193,False,ECM Regulators,Crosslinking Enzymes,Matrisome-Associated,True,30.864197530864285,True,PSC,Ventral midbrain,0.42876038,True,False
+MMP17,6.142400956064929,0.30740225,False,ECM Regulators,Matrix Metalloproteinases (MT-MMPs),Matrisome-Associated,True,18.632922695999735,True,MC,Ventral midbrain,0.60963726,True,False
+MMP2,5.1894353143382945,0.25628754,True,ECM Regulators,Matrix Metalloproteinases,Matrisome-Associated,True,73.66255144033141,True,PSC,Unspecific,0.8728823,True,True
+MMP24,4.795947989860759,0.23735966,False,ECM Regulators,Matrix Metalloproteinases (MT-MMPs),Matrisome-Associated,True,8.330727568220512,True,Ventral Telencephalic Neuron,Ventral midbrain,0.4715602,True,False
+ADAMTS1,4.70716342346508,0.23214817,False,ECM Regulators,ADAMTS (Aggrecanases / Procollagen),Matrisome-Associated,True,26.886145404663814,True,PSC,Unspecific,1.4724945,True,False
+LOXL3,4.3579554247217756,0.20896281,False,ECM Regulators,Crosslinking Enzymes,Matrisome-Associated,True,14.297410705148007,True,NC Derivatives,Ventral midbrain,1.4714774,True,False
+LOX,3.9866077631113557,0.19876795,True,ECM Regulators,Crosslinking Enzymes,Matrisome-Associated,True,18.30414222799506,True,MC,Unspecific,1.6093584,True,True
+MMP14,3.678346844925854,0.17992413,False,ECM Regulators,Matrix Metalloproteinases (MT-MMPs),Matrisome-Associated,True,37.500000000000014,True,Microglia,Unspecific,0.79872084,True,False
+ADAM12,3.404933304263338,0.16879654,False,ECM Regulators,ADAMs (Sheddases),Matrisome-Associated,True,18.57537611298709,True,NC Derivatives,Ventral midbrain,0.83105326,True,False
+MMP11,2.908993560293588,0.14086257,True,ECM Regulators,Matrix Metalloproteinases,Matrisome-Associated,True,11.294010059442106,True,PSC,Ventral midbrain,0.58753747,True,True
+LOXL2,2.441970927007419,0.11685451,True,ECM Regulators,Crosslinking Enzymes,Matrisome-Associated,True,23.04526748971175,True,PSC,Unspecific,1.2524455,True,True
+ADAMTS2,2.074181425500642,0.098956235,False,ECM Regulators,ADAMTS (Aggrecanases / Procollagen),Matrisome-Associated,True,10.377648142462622,True,NC Derivatives,Ventral midbrain,0.79561013,True,False
+ADAMTS5,1.7422559186893203,0.08689279,False,ECM Regulators,ADAMTS (Aggrecanases / Procollagen),Matrisome-Associated,True,4.523590215945187,False,NC Derivatives,Dorsal midbrain,0.98428947,False,False
+ADAMTS13,1.7058836154076304,0.08150113,False,ECM Regulators,ADAMTS (Aggrecanases / Procollagen),Matrisome-Associated,True,4.115226337448558,False,Astrocyte,Ventral midbrain,0.5895672,False,False
+ADAMTS4,1.5434507827396529,0.0785453,False,ECM Regulators,ADAMTS (Aggrecanases / Procollagen),Matrisome-Associated,True,8.853529171766587,True,EC,Dorsal telencephalon,0.4972364,True,False
+MMP28,1.2558610803934829,0.060992196,False,ECM Regulators,Matrix Metalloproteinases,Matrisome-Associated,True,6.57937740011406,True,Astrocyte,Unspecific,1.7247896,True,False
+TIMP4,0.6274222316101696,0.028966678,False,ECM Regulators,TIMPs,Matrisome-Associated,False,6.894894894895,True,OPC,Unspecific,0.8766696,False,False
+MMP9,0.4152881149545224,0.0196957,True,ECM Regulators,Matrix Metalloproteinases,Matrisome-Associated,False,16.666666666666664,True,Microglia,Ventral midbrain,1.4052415,False,False
+MMP19,0.2746560727626796,0.013148897,False,ECM Regulators,Matrix Metalloproteinases,Matrisome-Associated,False,1.3212103992044237,False,MC,Unspecific,1.9143987,False,False
+TGM2,0.2616094857159665,0.012732079,False,ECM Regulators,Crosslinking Enzymes,Matrisome-Associated,False,4.166666666666666,False,Microglia,Unspecific,0.792558,False,False
+LOXL4,0.24771571769219405,0.011854965,False,ECM Regulators,Crosslinking Enzymes,Matrisome-Associated,False,1.168997219572578,False,MC,Ventral midbrain,1.5548762,False,False
+MMP25,0.19462570979647803,0.008806041,False,ECM Regulators,Matrix Metalloproteinases (MT-MMPs),Matrisome-Associated,False,3.1550068587105566,False,PSC,Unspecific,1.3747158,False,False
+MMP10,0.16039959832326942,0.008315629,True,ECM Regulators,Matrix Metalloproteinases,Matrisome-Associated,False,0.7082986625535245,False,MC,Ventral midbrain,1.2739147,False,False
+MMP7,0.09691750377560207,0.005159409,True,ECM Regulators,Matrix Metalloproteinases,Matrisome-Associated,False,0.841572023858164,False,Astrocyte,Unspecific,2.211558,False,False
+MMP1,0.05546211463149266,0.00291561,False,ECM Regulators,Matrix Metalloproteinases,Matrisome-Associated,False,2.083333333333333,False,Microglia,Ventral midbrain,1.1772971,False,False
+MMP3,0.046651432470074305,0.0024153355,True,ECM Regulators,Matrix Metalloproteinases,Matrisome-Associated,False,0.7315957933241883,False,PSC,Medulla,1.097759,False,False
+MMP12,0.0071163202072995375,0.00036801308,True,ECM Regulators,Matrix Metalloproteinases,Matrisome-Associated,False,1.0416666666666665,False,Microglia,Medulla,1.1946732,False,False
+MMP13,0.006551532889259887,0.00033485604,False,ECM Regulators,Matrix Metalloproteinases,Matrisome-Associated,False,0.06291478091449676,False,MC,Unspecific,0.9114983,False,False
+MMP8,0.0011860533678832567,5.909252e-05,False,ECM Regulators,Matrix Metalloproteinases,Matrisome-Associated,False,0.0044640465689338065,False,Ventral Telencephalic Neuron,Ventral midbrain,1.4240113,False,False
+BMP7,14.304707276404017,0.7243782,False,ECM-Associated Signaling,TGF-β Superfamily,Matrisome-Associated,True,50.70873342478387,True,Astrocyte,Unspecific,0.78028756,True,False
+TGFB2,5.743774066993241,0.28837955,True,ECM-Associated Signaling,TGF-β Superfamily,Matrisome-Associated,True,31.187465752030093,True,MC,Unspecific,1.2801489,True,True
+BMP1,4.361344148630008,0.20887662,False,ECM-Associated Signaling,TGF-β Superfamily / Procollagen C-proteinase,Matrisome-Associated,True,17.873886306902524,True,MC,Unspecific,0.36913443,True,False
+TGFB1,4.24465908872322,0.20307459,False,ECM-Associated Signaling,TGF-β Superfamily,Matrisome-Associated,True,62.002743484226585,True,PSC,Unspecific,0.51012397,True,False
+BMP2,1.8412066568096939,0.0884788,False,ECM-Associated Signaling,TGF-β Superfamily,Matrisome-Associated,True,63.465935070875034,True,PSC,Thalamus,1.0567216,True,False
+TGFB3,1.42834712732302,0.069116846,False,ECM-Associated Signaling,TGF-β Superfamily,Matrisome-Associated,True,8.132242810464732,True,MC,Unspecific,1.6714395,True,False
+BMP4,1.3797754179715458,0.0666712,True,ECM-Associated Signaling,TGF-β Superfamily,Matrisome-Associated,True,30.315500685871115,True,PSC,Unspecific,1.3587835,True,True
+ITGB1,36.30317331399496,1.9356534,False,Integrins,Beta Subunits,Matrisome-Associated,True,94.33013260174076,True,PSC,Unspecific,0.3596099,True,False
+ITGAE,32.500008471879674,1.7009203,False,Integrins,Alpha Subunits (Leukocyte),Matrisome-Associated,True,69.09007773205501,True,PSC,Unspecific,0.2988339,True,False
+ITGB8,18.56614054857404,0.9738766,False,Integrins,Beta Subunits,Matrisome-Associated,True,48.17182776369574,True,Astrocyte,Unspecific,0.94859827,True,False
+ITGAV,12.400865705983147,0.61553353,False,Integrins,Alpha Subunits,Matrisome-Associated,True,38.06070757414533,True,Astrocyte,Unspecific,0.51910156,True,False
+ITGA6,10.250494471282746,0.5087502,False,Integrins,Alpha Subunits,Matrisome-Associated,True,49.474165523549246,True,NC Derivatives,Unspecific,0.8696959,True,False
+ITGB5,5.06958744545049,0.23982064,False,Integrins,Beta Subunits,Matrisome-Associated,True,66.80384087791681,True,PSC,Unspecific,1.3266276,True,False
+ITGA7,4.887443535383022,0.23847602,False,Integrins,Alpha Subunits,Matrisome-Associated,True,29.79614347577747,True,Astrocyte,Unspecific,1.5506502,True,False
+ITGA2,4.684571930743534,0.23111635,False,Integrins,Alpha Subunits,Matrisome-Associated,True,15.826532387961626,True,Dorsal Telencephalic NPC,Unspecific,0.8769773,True,False
+ITGA3,3.3631955214602804,0.16366382,True,Integrins,Alpha Subunits,Matrisome-Associated,True,17.42112482853212,True,PSC,Ventral midbrain,1.0342736,True,True
+ITGA2B,2.015556501888229,0.09730777,False,Integrins,Alpha Subunits,Matrisome-Associated,True,7.453132144490161,True,PSC,Dorsal midbrain,0.6019864,True,False
+ITGA5,1.7924655112629573,0.083217904,False,Integrins,Alpha Subunits,Matrisome-Associated,True,69.31870141746883,True,PSC,Unspecific,1.3075439,True,False
+ITGA9,1.394346930776988,0.06876076,False,Integrins,Alpha Subunits,Matrisome-Associated,True,14.174668495656068,True,PSC,Dorsal midbrain,1.193122,True,False
+ITGA10,1.182156335389211,0.05678067,False,Integrins,Alpha Subunits,Matrisome-Associated,True,2.0903943336106847,False,MC,Dorsal midbrain,0.6674289,False,False
+ITGB4,1.0947837372883618,0.052240364,False,Integrins,Beta Subunits,Matrisome-Associated,True,15.129912574557613,True,Astrocyte,Unspecific,2.2208881,True,False
+ITGA4,0.6528941396537524,0.03228702,False,Integrins,Alpha Subunits,Matrisome-Associated,False,18.749999999999993,True,Microglia,Ventral midbrain,1.1754017,False,False
+ITGA8,0.646229649300886,0.03320236,True,Integrins,Alpha Subunits,Matrisome-Associated,False,7.133058984910832,True,PSC,Unspecific,1.633752,False,False
+ITGA11,0.6225085819432258,0.030441904,False,Integrins,Alpha Subunits,Matrisome-Associated,False,5.652182736995878,True,MC,Unspecific,0.5800165,False,False
+ITGA1,0.5727508192239432,0.028473115,True,Integrins,Alpha Subunits,Matrisome-Associated,False,7.767884556340339,True,NC Derivatives,Unspecific,0.923829,False,False
+ITGB6,0.2904136389359825,0.01437795,False,Integrins,Beta Subunits,Matrisome-Associated,False,1.0416666666666665,False,Microglia,Medulla,0.8070585,False,False
+ITGB3,0.18508080412160632,0.008882132,True,Integrins,Beta Subunits,Matrisome-Associated,False,0.7204757169240721,False,MC,Ventral midbrain,2.7074368,False,False
+ITGB7,0.14656230903129563,0.006985015,False,Integrins,Beta Subunits,Matrisome-Associated,False,30.208333333333332,True,Microglia,Dorsal midbrain,1.795007,False,False
+ITGAL,0.10629297325506172,0.0052313274,False,Integrins,Alpha Subunits (Leukocyte),Matrisome-Associated,False,15.624999999999996,True,Microglia,Ventral midbrain,0.58139884,False,False
+ITGB2,0.06941236138707171,0.003326801,True,Integrins,Beta Subunits,Matrisome-Associated,False,76.0416666666666,True,Microglia,Ventral midbrain,0.8189781,False,False
+ITGAM,0.06822630801918847,0.0032037064,False,Integrins,Alpha Subunits (Leukocyte),Matrisome-Associated,False,22.916666666666657,True,Microglia,Ventral telencephalon,2.290196,False,False
+ITGAX,0.057382391512827424,0.002762536,False,Integrins,Alpha Subunits (Leukocyte),Matrisome-Associated,False,4.166666666666666,False,Microglia,Unspecific,0.74699676,False,False
+ITGAD,0.010392086651929516,0.0005128885,False,Integrins,Alpha Subunits (Leukocyte),Matrisome-Associated,False,1.0416666666666665,False,Microglia,Ventral midbrain,2.3731728,False,False
+LAMC1,8.58245160618736,0.4188865,False,Laminins,Gamma Chains,Core Matrisome,True,66.57521719250299,True,PSC,Unspecific,0.85260755,True,False
+LAMB2,7.075373126732995,0.34244502,False,Laminins,Beta Chains,Core Matrisome,True,35.69940354604023,True,Astrocyte,Unspecific,1.4055386,True,False
+LAMB1,6.97478450539031,0.34617257,True,Laminins,Beta Chains,Core Matrisome,True,60.17375400091603,True,PSC,Unspecific,0.9456147,True,True
+LAMA5,5.843571986090672,0.28453773,False,Laminins,Alpha Chains,Core Matrisome,True,25.422953818015365,True,PSC,Unspecific,0.43887812,True,False
+LAMA1,5.534689801855328,0.27076584,False,Laminins,Alpha Chains,Core Matrisome,True,64.33470507544754,True,PSC,Dorsal midbrain,1.2233272,True,False
+LAMA4,3.5305420037951363,0.17815553,True,Laminins,Alpha Chains,Core Matrisome,True,45.338245829497886,True,NC Derivatives,Unspecific,1.5764587,True,True
+LAMA2,1.5155502892284571,0.07756844,True,Laminins,Alpha Chains,Core Matrisome,True,19.291781803295073,True,NC Derivatives,Unspecific,0.96531343,True,True
+LAMB4,0.9204338922092912,0.04538463,False,Laminins,Beta Chains,Core Matrisome,False,2.615839046730392,False,Non-telencephalic NPC,Ventral midbrain,2.1450193,False,False
+LAMA3,0.767489486483973,0.038562737,False,Laminins,Alpha Chains,Core Matrisome,False,1.6920186871683545,False,Dorsal Telencephalic NPC,Cerebellum,1.1950353,False,False
+LAMC2,0.6998279657828373,0.03397407,False,Laminins,Gamma Chains,Core Matrisome,False,9.693644261545463,True,PSC,Ventral midbrain,1.7085844,False,False
+LAMB3,0.4616006750337638,0.022828976,False,Laminins,Beta Chains,Core Matrisome,False,1.6383050907986623,False,Ventral Telencephalic Neuron,Thalamus,0.9637775,False,False
+LAMC3,0.25070909047780354,0.012308644,True,Laminins,Gamma Chains,Core Matrisome,False,9.419295839048896,True,PSC,Unspecific,0.73805195,False,False
+CCN1,2.449369640873725,0.12595764,True,Matricellular Proteins,CCN Family,Core Matrisome,True,9.285390933195613,True,CP,Dorsal midbrain,1.1172175,True,True
+CCN2,1.8198576961878326,0.09799181,True,Matricellular Proteins,CCN Family,Core Matrisome,True,9.14440923494818,True,CP,Dorsal midbrain,1.4852828,True,True
+CCN3,0.9177793918145013,0.04683493,True,Matricellular Proteins,CCN Family,Core Matrisome,False,2.969669533725737,False,CP,Medulla,1.4333389,False,False
+CCN5,0.1158943576617374,0.005681201,False,Matricellular Proteins,CCN Family,Core Matrisome,False,0.245570596472713,False,MC,Cerebellum,1.2947943,False,False
+CCN4,0.06020632810302561,0.002966346,False,Matricellular Proteins,CCN Family,Core Matrisome,False,0.688003571935945,False,MC,Ventral midbrain,1.3351775,False,False
+CCN6,0.021800790476330243,0.0010873403,False,Matricellular Proteins,CCN Family,Core Matrisome,False,0.10147545308789793,False,MC,Dorsal midbrain,1.6689932,False,False
+ACTB,97.23316340602211,7.6849146,False,Mechanotransduction,Cytoskeletal,N/A (Intracellular),True,100.00000000000348,True,Microglia,Ventral telencephalon,0.07535808,True,False
+RAC1,81.86467921651791,5.1637783,False,Mechanotransduction,Rho GTPase Signaling,N/A (Intracellular),True,99.49702789209309,True,Astrocyte,Dorsal telencephalon,0.094648644,True,False
+CDC42,73.2550613405481,4.4542317,False,Mechanotransduction,Rho GTPase Signaling,N/A (Intracellular),True,97.8509373571136,True,PSC,Ventral telencephalon,0.21126403,True,False
+RHOA,58.07538555145958,3.3107142,False,Mechanotransduction,Rho GTPase Signaling,N/A (Intracellular),True,99.26840420667928,True,PSC,Unspecific,0.28652775,True,False
+SYNE2,47.20153531752841,2.795328,True,Mechanotransduction,LINC Complex,N/A (Nuclear Envelope),True,92.94369208835322,True,Dorsal Telencephalic IP,Dorsal telencephalon,0.32312772,True,True
+MYH10,38.90480961574433,2.086373,False,Mechanotransduction,Cytoskeletal,N/A (Intracellular),True,87.60859625057445,True,PSC,Dorsal midbrain,0.5127054,True,False
+ROCK1,32.03925497783505,1.6726807,False,Mechanotransduction,Rho GTPase Signaling,N/A (Intracellular),True,74.71422039323498,True,PSC,Ventral telencephalon,0.47043642,True,False
+CRK,31.23042305969176,1.6155564,False,Mechanotransduction,Focal Adhesion Mechanosensors,N/A (Intracellular),True,61.408321902150654,True,PSC,Ventral telencephalon,0.37294805,True,False
+PTK2,30.093054358653447,1.5788897,False,Mechanotransduction,Focal Adhesion Kinases,N/A (Intracellular),True,69.09007773205501,True,PSC,Dorsal midbrain,0.50419015,True,False
+ILK,30.046741798575415,1.5584941,False,Mechanotransduction,Focal Adhesion Mechanosensors,N/A (Intracellular),True,68.12985825331697,True,PSC,Unspecific,0.6249239,True,False
+ROCK2,29.497260216869105,1.5452323,False,Mechanotransduction,Rho GTPase Signaling,N/A (Intracellular),True,51.71467764060468,True,PSC,Dorsal telencephalon,0.28755954,True,False
+EMD,29.239265369995383,1.4996647,False,Mechanotransduction,Nuclear Mechanotransduction,N/A (Nuclear),True,65.70644718793048,True,PSC,Unspecific,0.36061475,True,False
+LMNB1,26.028901296878903,1.3937744,True,Mechanotransduction,Nuclear Mechanotransduction,N/A (Nuclear),True,71.50910386832165,True,Dorsal Telencephalic IP,Ventral telencephalon,0.6567008,True,True
+LMNA,23.646515431920246,1.2229055,True,Mechanotransduction,Nuclear Mechanotransduction,N/A (Nuclear),True,68.86705557261922,True,NC Derivatives,Unspecific,0.45251134,True,True
+SUN1,23.56625915402498,1.1982749,False,Mechanotransduction,LINC Complex,N/A (Nuclear Envelope),True,42.34110653863806,True,PSC,Ventral midbrain,0.4389465,True,False
+FERMT2,23.436583985800116,1.2063231,False,Mechanotransduction,Focal Adhesion Mechanosensors,N/A (Intracellular),True,75.49154092364198,True,Astrocyte,Unspecific,0.5764737,True,False
+FLNA,22.845138706335497,1.1717031,False,Mechanotransduction,Cytoskeletal,N/A (Intracellular),True,77.27480566986978,True,PSC,Unspecific,0.5265329,True,False
+STK4,20.377074605177704,1.0241461,False,Mechanotransduction,Hippo Pathway,N/A (Intracellular),True,41.33516232281725,True,PSC,Dorsal telencephalon,0.48356596,True,False
+MOB1A,20.324323469671597,1.0250236,False,Mechanotransduction,Hippo Pathway,N/A (Intracellular),True,68.54138088706185,True,Microglia,Unspecific,0.48178086,True,False
+TEAD1,20.03323208594732,1.0347196,False,Mechanotransduction,Hippo Pathway,N/A (Intracellular),True,48.14814814814909,True,Neuroepithelium,Ventral midbrain,0.6200835,True,False
+VCL,15.95202244696786,0.7998626,False,Mechanotransduction,Focal Adhesion Mechanosensors,N/A (Intracellular),True,64.70050297210966,True,PSC,Unspecific,0.8206692,True,False
+SYNE1,15.813931947704013,0.80858296,False,Mechanotransduction,LINC Complex,N/A (Nuclear Envelope),True,35.62382547593652,True,OPC,Ventral midbrain,0.7602412,True,False
+ZYX,14.893667491669206,0.73813796,False,Mechanotransduction,Focal Adhesion Mechanosensors,N/A (Intracellular),True,45.90763603109365,True,PSC,Unspecific,0.8744734,True,False
+TLN1,14.696330802741647,0.72381103,False,Mechanotransduction,Focal Adhesion Mechanosensors,N/A (Intracellular),True,54.046639231825644,True,Microglia,Unspecific,0.5526824,True,False
+SAV1,14.256813311833161,0.6993332,False,Mechanotransduction,Hippo Pathway,N/A (Intracellular),True,55.052583447646455,True,PSC,Unspecific,0.6101492,True,False
+BCAR1,14.035868513011007,0.6987437,False,Mechanotransduction,Focal Adhesion Mechanosensors,N/A (Intracellular),True,40.32921810699644,True,EC,Unspecific,0.14672212,True,False
+TEAD2,13.62267011112377,0.68628967,False,Mechanotransduction,Hippo Pathway,N/A (Intracellular),True,75.99451303155237,True,PSC,Unspecific,1.0870963,True,False
+YAP1,12.981410590206915,0.647937,False,Mechanotransduction,Hippo Pathway,N/A (Intracellular),True,75.76588934613856,True,PSC,Unspecific,0.80967766,True,False
+CRKL,12.963450353492846,0.6370587,False,Mechanotransduction,Focal Adhesion Mechanosensors,N/A (Intracellular),True,37.402834933699545,True,PSC,Unspecific,0.97509027,True,False
+LMNB2,12.756060450303952,0.6299717,False,Mechanotransduction,Nuclear Mechanotransduction,N/A (Nuclear),True,54.2295381801567,True,PSC,Ventral telencephalon,0.6569044,True,False
+NF2,12.65682731852212,0.6219785,False,Mechanotransduction,Hippo Pathway,N/A (Intracellular),True,25.240054869684307,True,Astrocyte,Ventral midbrain,0.6503311,True,False
+MOB1B,12.460563725499833,0.61715513,False,Mechanotransduction,Hippo Pathway,N/A (Intracellular),True,25.422896966921137,True,Neuroepithelium,Ventral midbrain,0.47059363,True,False
+SUN2,12.171449097395842,0.6222384,False,Mechanotransduction,LINC Complex,N/A (Nuclear Envelope),True,46.062831497347425,True,EC,Dorsal telencephalon,0.42146477,True,False
+TRPM7,12.132930602305606,0.6002188,False,Mechanotransduction,Mechanosensitive Ion Channels,N/A (Membrane),True,33.561957018747364,True,PSC,Dorsal midbrain,0.608147,True,False
+LATS1,12.010654147950236,0.5938544,False,Mechanotransduction,Hippo Pathway,N/A (Intracellular),True,24.14266117969802,True,PSC,Dorsal midbrain,0.45765015,True,False
+AMOTL1,11.411019452388588,0.5661554,False,Mechanotransduction,Hippo Pathway,N/A (Intracellular),True,47.46227709190763,True,PSC,Ventral midbrain,0.5108905,True,False
+TLN2,11.15641332941676,0.5532358,False,Mechanotransduction,Focal Adhesion Mechanosensors,N/A (Intracellular),True,44.71879286694179,True,PSC,Cerebellum,0.53371286,True,False
+AMOTL2,10.842165665660048,0.54358566,False,Mechanotransduction,Hippo Pathway,N/A (Intracellular),True,37.63145861911336,True,Dorsal Telencephalic IP,Pons,0.33513016,True,False
+MYH9,9.227947031973747,0.44627824,False,Mechanotransduction,Cytoskeletal,N/A (Intracellular),True,56.24142661179832,True,PSC,Unspecific,1.027534,True,False
+FLNB,8.839542793358559,0.43387696,False,Mechanotransduction,Cytoskeletal,N/A (Intracellular),True,53.13214449017036,True,PSC,Ventral midbrain,0.72744083,True,False
+STK3,8.830732111197156,0.44201317,False,Mechanotransduction,Hippo Pathway,N/A (Intracellular),True,28.21216278006397,True,MC,Dorsal midbrain,0.8643691,True,False
+WWC1,8.662086618030813,0.43117124,False,Mechanotransduction,Hippo Pathway,N/A (Intracellular),True,22.554947299621382,True,Astrocyte,Dorsal telencephalon,0.4064663,True,False
+WWTR1,8.650282563083804,0.43620577,False,Mechanotransduction,Hippo Pathway,N/A (Intracellular),True,50.60894483676517,True,NC Derivatives,Unspecific,1.247062,True,False
+SRC,7.635811582422759,0.3745783,False,Mechanotransduction,Focal Adhesion Kinases,N/A (Intracellular),True,28.12071330589844,True,PSC,Ventral telencephalon,0.36437258,True,False
+SRF,7.045721792535965,0.3421092,False,Mechanotransduction,Cytoskeletal / Transcription,N/A (Intracellular),True,24.599908550525633,True,PSC,Ventral telencephalon,0.47520396,True,False
+PARVA,6.808680555155139,0.32723632,False,Mechanotransduction,Focal Adhesion Mechanosensors,N/A (Intracellular),True,41.15226337448619,True,PSC,Unspecific,0.7298491,True,False
+TRPC1,6.80314563943836,0.33838633,False,Mechanotransduction,Mechanosensitive Ion Channels,N/A (Membrane),True,14.034398891907099,True,Neuroepithelium,Dorsal midbrain,0.7002679,True,False
+PXN,5.3699978199152545,0.25878596,False,Mechanotransduction,Focal Adhesion Mechanosensors,N/A (Intracellular),True,27.114769090077633,True,PSC,Unspecific,1.3422226,True,False
+AMOT,4.850732359710508,0.23364268,False,Mechanotransduction,Hippo Pathway,N/A (Intracellular),True,24.554183813442872,True,PSC,Unspecific,0.9296741,True,False
+TEAD3,4.274536337847466,0.20410892,False,Mechanotransduction,Hippo Pathway,N/A (Intracellular),True,19.112940100594283,True,PSC,Unspecific,0.8078439,True,False
+ACTA2,4.241778673401223,0.21719933,True,Mechanotransduction,Cytoskeletal,N/A (Intracellular),True,68.66585067319309,True,EC,Medulla,1.2636243,True,True
+PIEZO2,3.9159528696247192,0.19551055,False,Mechanotransduction,Mechanosensitive Ion Channels,N/A (Membrane),True,11.91930671970635,True,MC,Ventral midbrain,0.76007575,True,False
+LATS2,3.68602795245118,0.17376268,False,Mechanotransduction,Hippo Pathway,N/A (Intracellular),True,16.918152720621745,True,PSC,Ventral midbrain,0.78305656,True,False
+PARVB,2.808348460219099,0.13364159,False,Mechanotransduction,Focal Adhesion Mechanosensors,N/A (Intracellular),True,24.46273433927735,True,Microglia,Ventral midbrain,0.93976164,True,False
+KCNK2,2.015782416815444,0.09926927,False,Mechanotransduction,Mechanosensitive Ion Channels,N/A (Membrane),True,3.3993993993994054,False,Dorsal Telencephalic Neuron,Cerebellum,0.6302174,False,False
+TEAD4,1.56214524296679,0.073047325,False,Mechanotransduction,Hippo Pathway,N/A (Intracellular),True,50.70873342478387,True,PSC,Unspecific,1.1170928,True,False
+PIEZO1,0.9420652464902384,0.04338334,False,Mechanotransduction,Mechanosensitive Ion Channels,N/A (Membrane),False,7.798587657353543,True,NC Derivatives,Unspecific,0.92475665,False,False
+TRPC6,0.786296904174697,0.038899563,False,Mechanotransduction,Mechanosensitive Ion Channels,N/A (Membrane),False,5.12117055326932,True,PSC,Dorsal telencephalon,1.2427607,False,False
+FERMT3,0.6374189671394693,0.029727524,False,Mechanotransduction,Focal Adhesion Mechanosensors,N/A (Intracellular),False,38.54166666666668,True,Microglia,Ventral midbrain,0.64128345,False,False
+FERMT1,0.45663054663501595,0.02074869,False,Mechanotransduction,Focal Adhesion Mechanosensors,N/A (Intracellular),False,12.80292638317323,True,PSC,Unspecific,1.8707204,False,False
+TRPV4,0.4356769371357494,0.020667842,False,Mechanotransduction,Mechanosensitive Ion Channels,N/A (Membrane),False,16.643804298125175,True,PSC,Unspecific,1.0869503,False,False
+KCNK4,0.3829258016308574,0.018930692,False,Mechanotransduction,Mechanosensitive Ion Channels,N/A (Membrane),False,0.7935380431473581,False,MC,Ventral midbrain,1.8734257,False,False
+TMC2,0.21207763792389975,0.01042459,False,Mechanotransduction,Mechanosensitive Ion Channels,N/A (Membrane),False,0.3928360980661778,False,Ventral Telencephalic Neuron,Ventral midbrain,0.84385645,False,False
+TMC1,0.1719777383430842,0.008312651,False,Mechanotransduction,Mechanosensitive Ion Channels,N/A (Membrane),False,0.5719421521366138,False,Astrocyte,Ventral midbrain,1.8792446,False,False
+VCAN,41.686726029407204,2.3979268,True,Proteoglycans,Lectican / CSPG,Core Matrisome,True,92.82121627800954,True,PSC,Dorsal telencephalon,0.42474306,True,True
+GPC1,24.019105625639504,1.2500433,False,Proteoglycans,Glypicans (GPI-anchored HSPG),Matrisome-Associated,True,50.78688685521831,True,Dorsal Telencephalic NPC,Dorsal telencephalon,0.37914976,True,False
+NCAN,23.00779745393463,1.2481204,True,Proteoglycans,Lectican / CSPG,Core Matrisome,True,63.71435574799656,True,Astrocyte,Dorsal telencephalon,0.63404745,True,True
+SDC2,17.398103896109582,0.8999324,True,Proteoglycans,Syndecans (Cell-Surface HSPG),Matrisome-Associated,True,53.04069501600483,True,MC,Unspecific,0.81752163,True,True
+SDC3,15.869337583604967,0.80438846,False,Proteoglycans,Syndecans (Cell-Surface HSPG),Matrisome-Associated,True,57.42503472504187,True,Astrocyte,Unspecific,0.53521883,True,False
+GPC6,14.674925363387455,0.78245723,False,Proteoglycans,Glypicans (GPI-anchored HSPG),Matrisome-Associated,True,34.91803815068184,True,Neuroepithelium,Dorsal midbrain,1.1672406,True,False
+GPC4,13.92635625204062,0.7133545,False,Proteoglycans,Glypicans (GPI-anchored HSPG),Matrisome-Associated,True,63.008687700047396,True,PSC,Unspecific,0.9325413,True,False
+AGRN,12.410297654194393,0.6192497,False,Proteoglycans,Basement Membrane HSPG,Core Matrisome,True,46.913580246914464,True,PSC,Pons,0.4546153,True,False
+BCAN,11.855337635489603,0.7094833,True,Proteoglycans,Lectican / CSPG,Core Matrisome,True,92.73633466782123,True,Astrocyte,Unspecific,1.156054,True,True
+GPC3,8.94459323451375,0.49704513,True,Proteoglycans,Glypicans (GPI-anchored HSPG),Matrisome-Associated,True,75.44581618655921,True,PSC,Thalamus,1.7962024,True,True
+SDC1,4.631538401579704,0.2221192,False,Proteoglycans,Syndecans (Cell-Surface HSPG),Matrisome-Associated,True,17.283950617283832,True,Neuroepithelium,Dorsal midbrain,1.0203724,True,False
+DCN,4.289107850652863,0.27017802,True,Proteoglycans,SLRP,Core Matrisome,True,81.44013963028738,True,MC,Unspecific,1.2669901,True,True
+LUM,3.744596397331789,0.21316946,True,Proteoglycans,SLRP,Core Matrisome,True,63.52769265116889,True,MC,Unspecific,0.9751002,True,True
+HSPG2,3.5038275636519076,0.1662036,False,Proteoglycans,Basement Membrane HSPG,Core Matrisome,True,44.947416552355605,True,PSC,Unspecific,1.279917,True,False
+SDC4,2.8279465801550403,0.13232681,False,Proteoglycans,Syndecans (Cell-Surface HSPG),Matrisome-Associated,True,47.91952446273527,True,PSC,Unspecific,1.3630822,True,False
+GPC5,1.4822278374640738,0.0832134,True,Proteoglycans,Glypicans (GPI-anchored HSPG),Matrisome-Associated,True,4.704224201323439,False,Astrocyte,Ventral midbrain,1.5124552,False,False
+BGN,1.2647847200185212,0.064623505,True,Proteoglycans,SLRP,Core Matrisome,True,18.421860607921094,True,MC,Unspecific,0.6581974,True,True
+PRELP,0.8459384449597629,0.040197387,False,Proteoglycans,SLRP,Core Matrisome,False,6.693276020878222,True,NC Derivatives,Unspecific,0.8315919,False,False
+OGN,0.7173928513738667,0.037826445,True,Proteoglycans,SLRP,Core Matrisome,False,13.279077791084108,True,MC,Unspecific,1.3923717,False,False
+ASPN,0.5949469608228967,0.029954039,True,Proteoglycans,SLRP,Core Matrisome,False,6.766383211901167,True,MC,Unspecific,1.7624912,False,False
+OMD,0.26059286854349534,0.012628947,False,Proteoglycans,SLRP,Core Matrisome,False,1.7433482840500762,False,MC,Dorsal midbrain,2.1344209,False,False
+ACAN,0.19914400834079451,0.009640958,False,Proteoglycans,Lectican / CSPG,Core Matrisome,False,3.9402312966943227,False,NC Derivatives,Unspecific,0.91713834,False,False
+FMOD,0.17062224877978882,0.008554511,True,Proteoglycans,SLRP,Core Matrisome,False,4.435299497027891,False,MC,Unspecific,0.8019915,False,False
+OPTC,0.10951226096788827,0.004898878,False,Proteoglycans,SLRP,Core Matrisome,False,3.795153177869224,False,PSC,Unspecific,2.2896152,False,False
+KERA,0.025697822970803745,0.0012833665,False,Proteoglycans,SLRP,Core Matrisome,False,0.6413248635155123,False,MC,Unspecific,1.2205471,False,False
+EPYC,0.024398812139312578,0.0012246736,True,Proteoglycans,SLRP,Core Matrisome,False,0.50534775637773,False,MC,Unspecific,1.1352291,False,False
+CHAD,0.02309980130782141,0.0011305597,False,Proteoglycans,SLRP,Core Matrisome,False,0.7447447447447444,False,OPC,Cerebellum,1.2989744,False,False
