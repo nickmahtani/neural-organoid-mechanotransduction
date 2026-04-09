@@ -1,0 +1,8 @@
+"Category","Term","Count","List Total","Pop Hits","Pop Total","P-Value","Benjamini","Fold Enrichment","Bonferroni","FDR","Fisher Exact","User Ids"
+"GOTERM_BP_DIRECT","Wnt signaling pathway, planar cell polarity pathway","2","6","34","19512","8.68e-3","1.00e+0","191.29","7.61e-1","1.00e+0","4.40e-5","GPC3,RHOA"
+"GOTERM_BP_DIRECT","cell-matrix adhesion","2","6","108","19512","2.74e-2","1.00e+0","60.22","9.89e-1","1.00e+0","4.49e-4","ITGAE,RHOA"
+"GOTERM_BP_DIRECT","kidney development","2","6","149","19512","3.76e-2","1.00e+0","43.65","9.98e-1","1.00e+0","8.52e-4","GPC3,RHOA"
+"GOTERM_BP_DIRECT","anatomical structure morphogenesis","2","6","170","19512","4.28e-2","1.00e+0","38.26","9.99e-1","1.00e+0","1.11e-3","KRT18,GPC3"
+"GOTERM_BP_DIRECT","cell-cell adhesion","2","6","225","19512","5.63e-2","1.00e+0","28.91","1.00e+0","1.00e+0","1.93e-3","KRT18,ITGAE"
+"GOTERM_BP_DIRECT","cell migration","2","6","306","19512","7.60e-2","1.00e+0","21.25","1.00e+0","1.00e+0","3.53e-3","GPC3,RHOA"
+
